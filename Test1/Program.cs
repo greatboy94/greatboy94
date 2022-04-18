@@ -253,8 +253,7 @@ class Test1
         // Console.WriteLine($"5 число Фибоначчи = {fib5}");
         // Console.WriteLine($"6 число Фибоначчи = {fib6}");   
 
-
-
+        
 
     }
 
