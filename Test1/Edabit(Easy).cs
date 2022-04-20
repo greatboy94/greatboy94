@@ -63,6 +63,33 @@ public class Edabit_Easy_
     //     return arr;
     // }
     
+    //Factorial
+    // public static int Factorial(int num)
+    // {
+    //     if (num == 1) return 1;
+    //     return num * Factorial(num - 1);
+    // }
     
+
+    //Count Vowels
+    // public static int CountVowels(string str) 
+    // {
+    //     int res=0;
+    //     for(int i=0; i<str.Length; i++){
+    //         if(str[i]=='a' || str[i]=='e' || str[i]=='i' || str[i]=='o' || str[i]=='u'){
+    //             res++;
+    //         }
+    //     }
+    //     return res;
+    // }
     
+    //Sort Numbers in Ascending Order
+    // public static int[] SortNumsAscending(int[] arr)
+    // {
+    //     int[] res ={};
+    //     if(arr.Length==0 || arr[0].ToString()=="null"){
+    //         return res;
+    //     }
+    //     return res;
+    // }
 }
