@@ -154,8 +154,147 @@ class Program
         // }
         
         
-        
+        //Scottish Screaming
+        //A strong Scottish accent makes every vowel similar to an "e", so you should replace every vowel with an "e".
+        //Additionally, it is being screamed, so it should be in block capitals.
+        // public static string ToScottishScreaming(string str) {
+        //     str=str.Replace('a','e');
+        //     str=str.Replace('i','e');
+        //     str=str.Replace('o','e');
+        //     str=str.Replace('u','e');
+        //
+        //     return str.ToUpper();
+        // }
 
         
+        //Check if a Number is a Palindrome
+        // public static bool IsPalindrome(int num)
+        // {
+        //     int val = num;
+        //     int res = 0;
+        //     while (val > 0) {
+        //         res = res * 10 + val % 10;
+        //         val = val / 10;
+        //     }
+        //     return res == num;
+        // }
+        
+        
+        //Finding Nemo
+        //You're given a string of words. You need to find the word "Nemo", and return a string like this: "I found Nemo at [the order of the word you find Nemo]!".
+        //If you can't find Nemo, return "I can't find Nemo :(".
+        // public static string FindNemo(string sentence)
+        // {
+        //     var position = Array.IndexOf(sentence.Split(' '), "Nemo");
+        //     if (position < 0){
+        //         return "I can't find Nemo :(";
+        //     }else{
+        //         return $"I found Nemo at {position + 1}!";
+        //     }
+
+
+        //Remove All Special Characters from a String
+        // public static string RemoveSpecialCharacters(string str) 
+        // {
+        //     string[] chars = new string[] { ",", ".", "/", "!", "@", "#", "$", "%", "^", "&", "*", "'", "\"", ";", "(", ")", ":", "|", "[", "]" };
+        //     
+        //     for (int i = 0; i < chars.Length; i++)
+        //     {
+        //         if (str.Contains(chars[i]))
+        //         {
+        //             str = str.Replace(chars[i], "");
+        //         }
+        //     }
+        //     return str;
+        // }
+        
+        
+        //Get the Century---I did with wrong way I think )))
+        // public static string Century(int year)
+        // {
+        //     if(year == 1000) {
+        //         return "10th century";
+        //     }
+        //     else if(year > 1000 && year < 1101){
+        //         return "11th century";
+        //     }
+        //     else if(year > 1100 && year < 1201){
+        //         return "12th century";
+        //     }
+        //     else if(year > 1200 && year < 1301){
+        //         return "13th century";
+        //     }
+        //     else if(year > 1300 && year < 1401){
+        //         return "14th century";
+        //     }
+        //     else if(year > 1400 && year < 1501){
+        //         return "15th century";
+        //     }
+        //     else if(year > 1500 && year < 1601){
+        //         return "16th century";
+        //     }
+        //     else if(year > 1600 && year < 1701){
+        //         return "17th century";
+        //     }
+        //     else if(year > 1700 && year < 1801){
+        //         return "18th century";
+        //     }
+        //     else if(year > 1800 && year < 1901){
+        //         return "19th century";
+        //     }
+        //     else if(year > 1900 && year < 2001){
+        //         return "20th century";
+        //     }
+        //     else if(year > 2000 && year < 2101){
+        //         return "21st century";
+        //     }
+        //     else {
+        //         return "Out of Bound";
+        //     }
+        // }
+        
+        
+        //The Karaca's Encryption Algorithm
+        // Input: "apple"
+        // Step 1: Reverse the input: "elppa"
+        // Step 2: Replace all vowels using the following chart:
+        // a => 0
+        // e => 1
+        // i => 2
+        // o => 2
+        // u => 3
+        // "1lpp0"
+        // Step 3: Add "aca" to the end of the word: "1lpp0aca"
+        // Output: "1lpp0aca"
+        
+        // public static string Encrypt(string word)
+        // {
+        //     string aca="aca";
+        //     char[] arr = word.ToCharArray(); 
+        //     string reversedString = String.Empty; 
+        //     for(int i = arr.Length - 1; i > -1; i--) 
+        //     { 
+        //         reversedString += arr[i]; 
+        //         reversedString=reversedString.Replace('a','0');
+        //         reversedString=reversedString.Replace('e','1');
+        //         reversedString=reversedString.Replace('i','2');
+        //         reversedString=reversedString.Replace('o','2');
+        //         reversedString=reversedString.Replace('u','3');
+        //     }
+        //     return reversedString+aca;
+        // }
+        
+        
+        //Seven Boom!
+        //Create a function that takes a list of numbers and return "Boom!" if the digit 7 appears in the array.
+        //Otherwise, return "there is no 7 in the array".
+        // public static string SevenBoom(int[] arr)
+        // {
+        //     foreach(int el in arr) {
+        //         if (el.ToString().Contains("7"))
+        //             return "Boom!";
+        //     }
+        //     return "there is no 7 in the array";
+        // }
     }
 }
