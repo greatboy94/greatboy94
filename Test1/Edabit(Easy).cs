@@ -71,17 +71,17 @@ public class Edabit_Easy_
     // }
     
 
-    //Count Vowels
-    // public static int CountVowels(string str) 
-    // {
-    //     int res=0;
-    //     for(int i=0; i<str.Length; i++){
-    //         if(str[i]=='a' || str[i]=='e' || str[i]=='i' || str[i]=='o' || str[i]=='u'){
-    //             res++;
-    //         }
-    //     }
-    //     return res;
-    // }
+    // Count Vowels
+    //  public static int CountVowels(string str) 
+    //  {
+    //      int res=0;
+    //      for(int i=0; i<str.Length; i++){
+    //          if(str[i]=='a' || str[i]=='e' || str[i]=='i' || str[i]=='o' || str[i]=='u'){
+    //              res++;
+    //          }
+    //      }
+    //      return res;
+    //  }
     
     //Sort Numbers in Ascending Order
     // public static int[] SortNumsAscending(int[] arr)

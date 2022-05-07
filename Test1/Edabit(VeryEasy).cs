@@ -280,4 +280,17 @@ public class Edabit_VeryEasy_
     //         return true;
     //     }
     // }
+    
+    
+    //Slice of Pie-Create a function that determines whether or not it's possible to split a pie fairly given these three parameters:
+    // public static bool EqualSlices(int total, int people, int each) 
+    // {
+    //     int res=people*each;
+    //     if(res<=total){
+    //         return true;
+    //     }
+    //     else{
+    //         return false;
+    //     }
+    // }
 }

@@ -1,0 +1,15 @@
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\bin\Debug\net6.0\EdabitMedium.exe
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\bin\Debug\net6.0\EdabitMedium.deps.json
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\bin\Debug\net6.0\EdabitMedium.runtimeconfig.json
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\bin\Debug\net6.0\EdabitMedium.dll
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\bin\Debug\net6.0\EdabitMedium.pdb
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\obj\Debug\net6.0\EdabitMedium.csproj.AssemblyReference.cache
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\obj\Debug\net6.0\EdabitMedium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\obj\Debug\net6.0\EdabitMedium.AssemblyInfoInputs.cache
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\obj\Debug\net6.0\EdabitMedium.AssemblyInfo.cs
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\obj\Debug\net6.0\EdabitMedium.csproj.CoreCompileInputs.cache
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\obj\Debug\net6.0\EdabitMedium.dll
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\obj\Debug\net6.0\refint\EdabitMedium.dll
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\obj\Debug\net6.0\EdabitMedium.pdb
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\obj\Debug\net6.0\EdabitMedium.genruntimeconfig.cache
+C:\Users\Buiukbek.Navruzov\RiderProjects\Test1\EdabitMedium\obj\Debug\net6.0\ref\EdabitMedium.dll

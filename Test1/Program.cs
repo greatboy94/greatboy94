@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System;
+using System.Globalization;
 using System.Threading.Channels;
 
 class Test1
@@ -253,6 +254,15 @@ class Test1
         // Console.WriteLine($"4 число Фибоначчи = {fib4}");
         // Console.WriteLine($"5 число Фибоначчи = {fib5}");
         // Console.WriteLine($"6 число Фибоначчи = {fib6}");
+
+        // bool isAllowed;
+        // string storePassword = "qwerty";
+        // string enter = Console.ReadLine();
+        //
+        // isAllowed = storePassword == enter ? true : false;
+        // Console.WriteLine(isAllowed);
+
+
 
     }
 

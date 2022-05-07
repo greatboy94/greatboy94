@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "Test1\Test1.csproj", "{CCF38DAF-5708-4C7D-AF6A-1FF496CD3F78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdabitMedium", "EdabitMedium\EdabitMedium.csproj", "{0D9F1CC4-9BF9-4394-A0DE-E5EDC7CE30D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{CCF38DAF-5708-4C7D-AF6A-1FF496CD3F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCF38DAF-5708-4C7D-AF6A-1FF496CD3F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCF38DAF-5708-4C7D-AF6A-1FF496CD3F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D9F1CC4-9BF9-4394-A0DE-E5EDC7CE30D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9F1CC4-9BF9-4394-A0DE-E5EDC7CE30D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9F1CC4-9BF9-4394-A0DE-E5EDC7CE30D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9F1CC4-9BF9-4394-A0DE-E5EDC7CE30D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
